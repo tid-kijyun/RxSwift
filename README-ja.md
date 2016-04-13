@@ -1,5 +1,3 @@
-RxSwiftドキュメント日本語化 (0)README
-
 <img src="assets/Rx_Logo_M.png" alt="Miss Electric Eel 2016" width="36" height="36"> RxSwift: ReactiveX for Swift
 ======================================
 
@@ -23,7 +21,7 @@ Rxは[計算の一般的な抽象化](https://youtu.be/looJcaeboBY)を`Observabl
 KVO、非同期操作そしてストリームは抽象化されたシーケンスの下に一元化されます。
 これがRxがとてもシンプルでエレガント、そしてパワフルである理由です。
 
-## 私がここきたのは ...
+## 私がここにきたのは ...
 
 ###### ... 知りたいから
 
@@ -39,12 +37,12 @@ KVO、非同期操作そしてストリームは抽象化されたシーケン�
 
 ###### ... インストールしたいから
 
-* RxSwift/RxCocoa をアプリに統合したい. [インストールガイド](Documentation/Installation.md)
+* RxSwift/RxCocoa をアプリに統合したい. [インストールガイド](Documentation_ja/Installation.md)
 
 ###### ... ハックしたいから
 
-* アプリの実例. [実例アプリを実行する](Documentation/ExampleApp.md)
-* playgroundで演算子を試す. [Playgrounds](Documentation/Playgrounds.md)
+* アプリの実例. [実例アプリを実行する](Documentation_ja/ExampleApp.md)
+* playgroundで演算子を試す. [Playgrounds](Documentation_ja/Playgrounds.md)
 
 ###### ... 交流したいから
 
